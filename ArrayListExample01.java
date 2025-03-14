@@ -12,5 +12,6 @@ public class ArrayListExample01 {
         list.set(0, 99);
         list.remove(1);
         System.out.println(list);
+        System.out.println(list);
     }
 }
