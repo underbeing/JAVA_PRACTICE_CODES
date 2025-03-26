@@ -15,5 +15,6 @@ public class Array_01 {
         //string array
         String[] arrs= new String[5];
         System.out.println(arrs[2]);
+        //
     }
 }
