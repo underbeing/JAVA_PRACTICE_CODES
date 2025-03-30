@@ -35,7 +35,7 @@
 // } 
 //============================================================================
 
-public class Solution {
+public class Q05_even_digits {
     public static void main(String[] args) {
         int[] arr={32,3434,433,2,6666,544444};
         System.out.println(findNumbers(arr));
