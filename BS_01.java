@@ -33,7 +33,7 @@ public class BS_01 {
                     }
                 }
 
-                // if descending order
+                // if its descending order
                 else {
                     if(target>arr[mid]){
                         end = mid-1;
