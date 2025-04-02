@@ -18,7 +18,7 @@ public class BS_03 {
             //find the middle element
             int mid = start +(end-start)/2; //might be possible start+end exceed the range of integer;
 
-            // checking middle element
+            // checking middle element.
             if(target==arr[mid]){
                 return mid;
             }
